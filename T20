@@ -16,4 +16,5 @@ https://localiptv.tk/Local_IPTV_PLAYLIST/PTV_SPORTS_HD_LIVE.m3u8
 #EXTINF:-1, Star Sports HD 1 Hindi
 https://localiptv.tk/Local_IPTV_PLAYLIST/STAR_SPORTS_1_HINDI_LIVE.m3u8
 
-
+#EXTINF:-1, TEN Sports
+https://localiptv.tk/Local_IPTV_PLAYLIST/TEN_SPORTS_LIVE.m3u8
